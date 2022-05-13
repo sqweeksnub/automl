@@ -1,0 +1,3 @@
+runtime: python37
+instance_class: F2
+service_account: 'auto-vision-nlp-341507@appspot.gserviceaccount.com'
